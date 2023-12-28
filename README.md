@@ -13,7 +13,7 @@ pnpm i
 pnpm run dev
 ```
 
-Proyek ini membutuhkan Node.js versi `v14.0.0` atau lebih, karena JavaScript baru didalam kode kami, ini optional.
+Proyek ini membutuhkan Node.js versi `v14.0.0` atau lebih, karena kode kami menggunakan JavaScript baru, yang sifatnya optional.
 
 
 ## Mengerjakan isi Konten
