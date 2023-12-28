@@ -4,7 +4,7 @@ Jika anda ingin melakukan kontribusi untuk bahasa ini anda dapa mengunjungi [Pan
 ---
 
 ## Kontribusi
-Situs ini dibuat dengan [VitePress](https://github.com/vuejs/vitepress) dan bergantung pada [@vue/theme](https://github.com/vuejs/vue-theme). Situs ini ditulis menggunakan Markdown format berada di `src`. Untuk mempermudah dalam modifikasi, Anda dapat mensunting dan membuat Pull Request secara langsung.
+Situs ini dibuat dengan [VitePress](https://github.com/vuejs/vitepress) dan bergantung pada [@vue/theme](https://github.com/vuejs/vue-theme). Situs ini ditulis menggunakan format Markdown yang berada di `src`. Untuk mempermudah dalam modifikasi, Anda dapat mensunting dan membuat Pull Request secara langsung.
 
 Untuk development lokal, kami rekomendasikan [pnpm](https://pnpm.io/) untuk pengelola paket Anda:
 
