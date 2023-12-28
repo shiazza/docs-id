@@ -1,25 +1,27 @@
-# vuejs.org
+# Dokumentasi vuejs.org dalam Bahasa Indonesia
+Jika anda ingin melakukan kontribusi untuk bahasa ini anda dapa mengunjungi [Panduan Penerjemahan Bahasa Indonesia Vue.js](./.github/CONTRIBUTING.md)
 
-## Contributing
+---
 
-This site is built with [VitePress](https://github.com/vuejs/vitepress) and depends on [@vue/theme](https://github.com/vuejs/vue-theme). Site content is written in Markdown format located in `src`. For simple edits, you can directly edit the file on GitHub and generate a Pull Request.
+## Kontribusi
+Situs ini dibuat dengan [VitePress](https://github.com/vuejs/vitepress) dan bergantung pada [@vue/theme](https://github.com/vuejs/vue-theme). Situs ini ditulis menggunakan Markdown format berada di `src`. Untuk mempermudah dalam modifikasi, Anda dapat mensunting dan membuat Pull Request secara langsung.
 
-For local development, [pnpm](https://pnpm.io/) is preferred as package manager:
+Untuk development lokal, kami rekomendasikan [pnpm](https://pnpm.io/) untuk pengelola paket Anda:
 
 ```bash
 pnpm i
 pnpm run dev
 ```
 
-This project requires Node.js to be `v14.0.0` or higher, because we use new JavaScript features in our code, such as optional chaining.
+Proyek ini membutuhkan Node.js versi `v14.0.0` atau lebih, karena JavaScript baru didalam kode kami, ini optional.
 
 
-## Working on the content
+## Mengerjakan isi Konten
 
-- See VitePress docs on supported [Markdown Extensions](https://vitepress.dev/guide/markdown) and the ability to [use Vue syntax inside markdown](https://vitepress.dev/guide/using-vue).
+- Lihat dokumentasi VitePress tentang [Ekstensi Markdown](https://vitepress.dev/guide/markdown) yang digunakan untuk [Penggunaan sintaks Vue dalam markdown](https://vitepress.dev/guide/using-vue).
 
-- See the [Writing Guide](https://github.com/vuejs/docs/blob/main/.github/contributing/writing-guide.md) for our rules and recommendations on writing and maintaining documentation content.
+- Lihat [Panduan Penulisan](https://github.com/vuejs/docs/blob/main/.github/contributing/writing-guide.md) untuk peraturan dan rekomendasi dalam memelihara dan penulisan konten dokumentasi.
 
-## Working on the theme
+## Mengerjakan Tema (Gaya)
 
-If changes need to made for the theme, check out the [instructions for developing the theme alongside the docs](https://github.com/vuejs/vue-theme#developing-with-real-content).
+Jika perubahan tema diperlukan, lihat [Instruksi development tema untuk dokumentasi](https://github.com/vuejs/vue-theme#developing-with-real-content).
